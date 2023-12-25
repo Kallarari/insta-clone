@@ -3,6 +3,8 @@
 this project was made by João Vitor Minosso using create-react-app and is created just for study,
 and isn't a commertial copy of instagram.
 
+This was created with react and styled componnents.
+
 
 # Getting Started with Create React App
 

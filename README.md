@@ -1,3 +1,9 @@
+# About this project
+
+this project was made by João Vitor Minosso using create-react-app and is created just for study,
+and isn't a commertial copy of instagram.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
